@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Complaint System</h1>
+<h1 align="center">Selamat datang diTraditional Snack</h1>
 
 
 
@@ -10,7 +10,7 @@ This system was created to promote snacks or traditional snacks, it contains inf
 
 <h2 id="fitur"> Fitur apa saja yang tersedia di Confess?</h2>
 
--   [Mazer Bootstrap Template](https://github.com/zuramai/mazer)
+-   Hae 
     -   <i>Dark</i> dan <i>Light</i> mode
     -   <i>Dashboard UI</i>
 -   Landing Page
